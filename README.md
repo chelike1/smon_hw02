@@ -42,8 +42,8 @@ sudo systemctl restart zabbix-server apache2 # zabbix-agent
 sudo systemctl enable zabbix-server apache2 # zabbix-agent
 ```
 
-`При необходимости прикрепитe сюда скриншоты
-![Скрин админки](https://github.com/chelike1/smon_hw02/blob/main/img/1smon-hw02.png)`
+
+![Скрин админки](https://github.com/chelike1/smon_hw02/blob/main/img/1smon-hw02.png)
 
 
 ---
@@ -65,10 +65,10 @@ sudo nano /etc/zabbix/zabbix_agentd.conf
 cat /var/log/zabbix/zabbix_agentd.log
 ```
 
-`При необходимости прикрепитe сюда скриншоты
+
 ![Лог](https://github.com/chelike1/smon_hw02/blob/main/img/agentlog.png)
 ![Latest data](https://github.com/chelike1/smon_hw02/blob/main/img/agent12.png)
-![Рабочие хосты](https://github.com/chelike1/smon_hw02/blob/main/img/hosts.png)`
+![Рабочие хосты](https://github.com/chelike1/smon_hw02/blob/main/img/hosts.png)
 
 
 ---
